@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://flottflyt.github.io/simple-recipes-cookbook/sitemap.xml.gz
+Sitemap: https://dhavalsonavaria.github.io/simple-recipes-cookbook/sitemap.xml.gz
