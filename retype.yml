@@ -1,6 +1,6 @@
-url: flottflyt.github.io/simple-recipes-cookbook/
+url: dhavalsonavaria.github.io/simple-recipes-cookbook/
 edit:
-  repo: github.com/flottflyt/simple-recipes-cookbook
+  repo: github.com/dhavalsonavaria/simple-recipes-cookbook
 input: ./src
 output: ./docs
 branding:
